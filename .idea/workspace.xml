@@ -2,200 +2,14 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ce499fb8-cc0f-4019-b66c-75aee60474b7" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/_metadata_/metadata" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/_metadata_/metadata.keystream" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/_metadata_/metadata.keystream.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/_metadata_/metadata.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/_metadata_/metadata.values.at" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/_metadata_/metadata_i" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/_metadata_/metadata_i.len" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/images/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/channels/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/components/.gitkeep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/concerns/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/assets/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/lib/tasks/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/log/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon-precomposed.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/apple-touch-icon.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-a26394f7ede100ca118eff2eda08596275a9839b959c226e15439557a5a80742.woff" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-fe185d11a49676890d47bb783312a0cda5a44c4039214094e7957b4c040ef11c.woff2" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/favicon.ico" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/12/large/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/12/medium/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/12/original/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/12/small/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/003/large/deadman.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/003/medium/deadman.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/003/original/deadman.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/003/small/deadman.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/large/twin_peaks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/large/unrendered.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/medium/twin_peaks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/medium/unrendered.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/original/twin_peaks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/original/unrendered.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/small/twin_peaks.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/004/small/unrendered.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/005/large/unreadable.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/005/medium/unreadable.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/005/original/unreadable.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/005/small/unreadable.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/006/large/pixellord.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/006/medium/pixellord.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/006/original/pixellord.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/006/small/pixellord.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/010/large/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/010/medium/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/010/original/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/010/small/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/013/large/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/013/medium/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/013/original/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/013/small/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/015/large/fortnox.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/015/medium/fortnox.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/015/original/fortnox.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/015/small/fortnox.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/016/large/download.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/016/medium/download.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/016/original/download.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/000/000/016/small/download.jpeg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/large/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/large/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/medium/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/medium/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/original/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/original/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/small/551CruhbI1o.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/system/products/images/small/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/products/large/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/products/medium/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/products/original/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/system/products/small/8H78EaKd_nU.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/files/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/helpers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/integration/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/mailers/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/system/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/tmp/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/vendor/.keep" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gitignore" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.generators" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/.rakeTasks" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.local.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/dataSources/e592fad2-5519-4008-833d-c84004a7ebc0/storage.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/misc.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/modules.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/test-task-ic.iml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/vcs.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Gemfile.lock" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/Rakefile" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/config/manifest.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/application.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/cable.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/components.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/components/product.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/components/products.jsx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/products.coffee" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/javascripts/server_rendering.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/application.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/assets/stylesheets/products.scss" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/channel.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/channels/application_cable/connection.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/application_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/controllers/products_controller.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/application_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/helpers/products_helper.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/jobs/application_job.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/mailers/application_mailer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/application_record.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/models/product.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_bottom.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/_header.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/application.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/layouts/mailer.text.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/products/_product_error.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/products/create.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/products/destroy.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/products/index.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/products/new.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/app/views/products/show.html.erb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/bundle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rails" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/rake" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/setup" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/spring" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/update" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/bin/yarn" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config.ru" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/application.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/boot.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/cable.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/database.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environment.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/development.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/production.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/environments/test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/application_controller_renderer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/assets.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/backtrace_silencers.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/cookies_serializer.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/filter_parameter_logging.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/inflections.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/mime_types.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/paperclip.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/react_server_rendering.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/initializers/wrap_parameters.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/locales/en.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/puma.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/routes.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/secrets.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/config/spring.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171121211120_create_products.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171121214234_add_attachment_image_to_products.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/migrate/20171123210557_add_absolute_url_to_products.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/schema.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/db/seeds.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/package.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/404.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/422.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/500.html" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/.sprockets-manifest-d5ab9de314be91ca8b955257c93348d7.json" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-19bb844e5ae4ebbbd8342f1397cbc51e9601e5a48f4cdd6a06d858a9c01f2735.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-19bb844e5ae4ebbbd8342f1397cbc51e9601e5a48f4cdd6a06d858a9c01f2735.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-de5fd124ab85606f91d6107f5497489740d84b4d0e748cce143b37ddc4cf3da5.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-de5fd124ab85606f91d6107f5497489740d84b4d0e748cce143b37ddc4cf3da5.css.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-f1a40b7e575fc3a1ddc071d21de0ff6a4357a113c6669787acf4823456cc3a4b.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/application-f1a40b7e575fc3a1ddc071d21de0ff6a4357a113c6669787acf4823456cc3a4b.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-13634da87d9e23f8c3ed9108ce1724d183a39ad072e73e1b3d8cbf646d2d0407.eot.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-42f60659d265c1a3c30f9fa42abcbb56bd4a53af4d83d316d6dd7a36903c43e5.svg.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/bootstrap/glyphicons-halflings-regular-e395044093757d82afcb138957d06a1ea9361bdcf0b442d06a18a8051af57456.ttf.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/react-f30afbcfc26d55c428df9b896175a07a8a9d06fadb82c5d1c08300a0e62f93d0.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/react-f30afbcfc26d55c428df9b896175a07a8a9d06fadb82c5d1c08300a0e62f93d0.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/server_rendering-735b3ce52e6f8f12f322166a48946d4d7c051d527a867d76e61ab72c5a33acc6.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/server_rendering-735b3ce52e6f8f12f322166a48946d4d7c051d527a867d76e61ab72c5a33acc6.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/assets/server_rendering-fe95795963df6c3cacd5e6d639d30405df4a0307e2ff0ae46cdd8e500812ce59.js.gz" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/robots.txt" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/application_system_test_case.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/controllers/products_controller_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/fixtures/products.yml" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/models/product_test.rb" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/test/test_helper.rb" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/large/551CruhbI1o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/large/8H78EaKd_nU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/medium/551CruhbI1o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/medium/8H78EaKd_nU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/original/551CruhbI1o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/original/8H78EaKd_nU.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/small/551CruhbI1o.jpg" afterPath="" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/public/system/products/images/small/8H78EaKd_nU.jpg" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -252,8 +66,8 @@
       <file leaf-file-name="products.jsx" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/app/assets/javascripts/components/products.jsx">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="233">
-              <caret line="30" column="117" lean-forward="false" selection-start-line="30" selection-start-column="117" selection-end-line="30" selection-end-column="117" />
+            <state relative-caret-position="461">
+              <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
               <folding />
             </state>
           </provider>
@@ -586,15 +400,16 @@
       <workItem from="1511429038632" duration="2484000" />
       <workItem from="1511436777013" duration="13431000" />
       <workItem from="1511469720038" duration="13811000" />
-      <workItem from="1511483760267" duration="1360000" />
+      <workItem from="1511483760267" duration="1674000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="64030000" />
+    <option name="totallyTimeSpent" value="64344000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="47" y="0" width="1922" height="1081" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.18177083" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
@@ -947,8 +762,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/app/assets/javascripts/components/products.jsx">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="233">
-          <caret line="30" column="117" lean-forward="false" selection-start-line="30" selection-start-column="117" selection-end-line="30" selection-end-column="117" />
+        <state relative-caret-position="461">
+          <caret line="42" column="21" lean-forward="true" selection-start-line="42" selection-start-column="21" selection-end-line="42" selection-end-column="21" />
           <folding />
         </state>
       </provider>
