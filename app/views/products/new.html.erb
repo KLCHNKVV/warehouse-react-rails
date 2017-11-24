@@ -1,0 +1,26 @@
+<div class="center">
+  <h1 id="adminH1">Administrator's form.</h1>
+  <div class="col-md-4">
+    <p><strong>Do you wanna add some products to warehouse?</strong></p>
+
+    <%= form_for @product, html: {multipart: true} do |f| %>
+        <%= render 'products/product_error', locals: {object: f.object, nested_models: [@product]} %>
+        <p><%= f.label :product_type %></p>
+        <p><%= f.text_field :product_type, class: "form-control" %></p>
+
+        <p><%= f.label :brand %></p>
+        <p><%= f.text_field :brand, class: "form-control" %></p>
+
+        <p><%= f.label :product_model_name %></p>
+        <p><%= f.text_field :product_model_name, class: "form-control" %></p>
+
+        <p><%= f.label 'Price ($)' %></p>
+        <p><%= f.number_field :price, class: "form-control" %></p>
+
+        <p><%= f.label :image %></p>
+        <p><%= f.file_field :image, class: "form-control" %></p>
+
+        <p><%= f.submit 'Add product', class: 'btn btn-large btn-primary' %></p>
+    <% end %>
+  </div>
+</div>

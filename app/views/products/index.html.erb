@@ -1,0 +1,26 @@
+<%= render 'layouts/header' %>
+<div class="navbar-left col-md-2" style="margin: 120px 140px 0 -420px; background: rgba(255, 165, 0, 0.5); border-radius: 25px;">
+  <p style="text-align: center">FILTER</p>
+</div>
+<br><br><br>
+<div class="navbar-left col-md-2 brand_rect" style="margin: 120px 140px 0 -420px">
+  <p style="text-align: center">BRANDS:</p>
+  <% @products.each do |prod| %>
+      <%= check_box_tag 'products[brands][]', prod.id %>
+      <%= label_tag "#{prod.brand}", prod.brand %>
+      <br>
+  <% end %>
+  <br><br>
+</div>
+
+<%= react_component 'Products', {data: @products} %>
+
+<div class="field">
+  <%= form_tag 'delete_by_model_name', method: :delete do %>
+      <%= label_tag 'Enter model name for delete:' %>
+      <%= text_field_tag :product_model_name, nil, class: 'form-control', id: 'del-field' %>
+      <%= submit_tag 'Delete product', class: 'btn btn-danger' %>
+  <% end %>
+</div>
+
+<%= render 'layouts/bottom' %>
