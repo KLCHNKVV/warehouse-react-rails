@@ -14,7 +14,6 @@ gem 'jquery-rails'
 gem 'turbolinks'
 gem 'jbuilder'
 gem 'react-rails'
-gem 'react-router-rails'
 gem 'therubyracer'
 gem 'bootstrap-sass'
 

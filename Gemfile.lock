@@ -155,9 +155,6 @@ GEM
       execjs
       railties (>= 3.2)
       tilt
-    react-router-rails (0.13.3.1)
-      rails (>= 3.1)
-      react-rails (>= 0.12)
     ref (2.0.0)
     ruby_dep (1.5.0)
     rubyzip (1.2.1)
@@ -227,7 +224,6 @@ DEPENDENCIES
   puma
   rails
   react-rails
-  react-router-rails
   sass-rails
   selenium-webdriver
   spring
